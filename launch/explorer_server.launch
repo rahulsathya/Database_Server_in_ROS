@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="ros_service" type="explorer_server.py" output="screen" name="explorer_main"/>
+	<node pkg="ros_service" type="explorer_map_server.py" output="screen" name="explorer_map_server"/>
+</launch>

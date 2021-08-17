@@ -1,0 +1,20 @@
+{
+   "_default":{
+      "1":{
+         "map_pgm":"file",
+         "map_id":1
+      },
+      "2":{
+         "hazards":[
+            {
+               "pose_x":5.25,
+               "haz_id":1
+            },
+            {
+               "pose_x":5.25,
+               "haz_id":2
+            }
+         ]
+      }
+   }
+}

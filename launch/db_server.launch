@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="ros_service" type="server.py" output="screen" name="server_main"/>	
+	<node pkg="ros_service" type="server_hazard.py" output="screen" name="server_hazard"/>
+	
+</launch>
