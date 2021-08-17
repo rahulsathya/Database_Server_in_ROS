@@ -1,0 +1,8 @@
+string frame_id
+float32 pose_x
+float32 pose_y
+string time
+string name
+---
+string confirm_update
+

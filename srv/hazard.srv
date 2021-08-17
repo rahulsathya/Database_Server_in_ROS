@@ -1,0 +1,7 @@
+string frame_id
+string timestamp
+geometry_msgs/Pose mod_coordinates
+geometry_msgs/Pose actual_coordinates
+string desc
+---
+string confirm_update

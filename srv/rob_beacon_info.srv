@@ -1,0 +1,7 @@
+string robotID
+float32 d
+float32 x
+float32 y
+string timestamp
+---
+string confirm_update

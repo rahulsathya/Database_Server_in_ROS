@@ -1,0 +1,5 @@
+string req_list
+---
+float32[] robot_1
+float32[] robot_2
+float32[] robot_3

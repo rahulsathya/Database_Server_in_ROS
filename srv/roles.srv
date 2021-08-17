@@ -1,0 +1,4 @@
+string robot_id
+string robot_role
+---
+string confirm_update

@@ -1,0 +1,5 @@
+string timestamp
+float32 goalX
+float32 goalY
+---
+string confirm_update

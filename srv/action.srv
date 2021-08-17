@@ -1,0 +1,5 @@
+string robot_id
+string robot_action
+string haz_desc
+---
+string confirm_update

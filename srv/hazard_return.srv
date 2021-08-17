@@ -1,0 +1,6 @@
+int16 haz_request
+---
+string frame_id
+string time
+geometry_msgs/Pose mod_coordinates
+string desc

@@ -1,0 +1,9 @@
+string image
+float32 resolution
+float32[] origin
+float32 occupied_thresh
+float32 free_thresh
+int32 negate
+---
+string confirm_update
+

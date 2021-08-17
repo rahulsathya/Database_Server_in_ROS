@@ -1,0 +1,6 @@
+string timestamp
+string name
+string robot_id
+geometry_msgs/Point robot_pose
+---
+string confirm_update
